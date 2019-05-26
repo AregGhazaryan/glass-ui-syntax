@@ -1,2 +1,2 @@
-# glass-ui-syntax
+# Glass UI Syntax
 Syntax for Glass UI theme
