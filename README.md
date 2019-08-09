@@ -1,7 +1,8 @@
 # Glass UI Syntax
 Syntax for Glass UI theme
 <br>
-It's recommended to download and install [Quicksand](https://fonts.google.com/specimen/Quicksand?selection.family=Quicksand) font.
+Firstly install the main [Glass UI](https://atom.io/themes/glass-ui) theme to make it look extra rad.<br>
+It's also recommended to download and install [Quicksand](https://fonts.google.com/specimen/Quicksand?selection.family=Quicksand) font.
 
 ![anim](https://user-images.githubusercontent.com/38076644/58480440-6e171100-816b-11e9-9f54-79b26498f8d7.gif)
 
